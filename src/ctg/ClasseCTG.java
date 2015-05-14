@@ -9,7 +9,7 @@ public class ClasseCTG {
     private double mensalidade;
     private double gastosmensais;
     private boolean declamando;
-   private boolean dancando;
+    private boolean dancando;
  
     public String getNome() {
         return nome;
